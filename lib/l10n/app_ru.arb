@@ -1,0 +1,14 @@
+
+{
+    
+	"title": "Медовня",
+	"winnie": "Винни-Пух",
+	"piglet": "Пятачок",
+	"tigger": "Тигра",
+	"honey": "{amount, plural, =0{Пока ничего} =1{{amount} банка} =few{{amount} банки} =other{{amount} банок}}",
+	"manufacturer": "{manufacturer}",
+	"itemTotal": "К оплате:{value}",
+	"date": "Дата: {date}"
+
+}
+

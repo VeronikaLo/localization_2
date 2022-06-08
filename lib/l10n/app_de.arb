@@ -1,0 +1,12 @@
+{
+    
+	"title": "Honigladen",
+	"winnie": "Winnie-der Pu",
+	"piglet": "Ferkel",
+	"tigger": "Tieger",
+	"honey": "{amount, plural, =0{Noch nichts} =1{{amount} Glas} =few{{amount} Gläser} =other{{amount} Gläser}}",
+	"manufacturer": "{manufacturer}",
+	"itemTotal": "Zu bezahlen:{value}",
+	"date": "Datum: {date}"
+
+}
